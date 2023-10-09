@@ -12,7 +12,7 @@ const Computers = ({ isMobile }) => {
       <hemisphereLight intensity={3} groundColor="black" />
       <pointLight intensity={2} /> 
       <spotLight 
-         position={[-20, 50, 20 ]}
+         position={[-20, 50, 10 ]}
          angle={0.12}
          penumbra={1}
          intensity={1}
