@@ -32,7 +32,7 @@ import {
    import corizo from '../assets/company/corizo.png';
    import wine from '../assets/wine.png';
    import Air from '../assets/Air.png';
-   import Churn from '../assets/churn.png';
+   import Churn from '../assets/Churn.png';
    import StockMarket from '../assets/StockMarket.png';
    import Abin from '../assets/Abin.png';
 
